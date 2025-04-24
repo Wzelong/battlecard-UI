@@ -17,13 +17,9 @@ Paste structured JSON data and instantly render a beautifully styled, interactiv
 ## 🛠 Setup
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/battle-card-display.git
-cd battle-card-display
-
-# 2. Install dependencies
+# 1. Install dependencies
 pnpm install  # or npm install / yarn
 
-# 3. Run the dev server
+# 2. Run the dev server
 pnpm dev      # http://localhost:3000
 ```
